@@ -1,0 +1,18 @@
+{
+  "name": "AlgoWash - 알고리즘 긴급 세탁기",
+  "short_name": "AlgoWash",
+  "description": "비상 상황 시 원터치로 내 유튜브 추천 알고리즘을 10초 만에 청정 테마(강아지/아기/갓생)로 덮어쓰는 세탁기",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#09090B",
+  "theme_color": "#09090B",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
